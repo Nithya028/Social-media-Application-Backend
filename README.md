@@ -29,3 +29,13 @@ Flask's routing mechanism is used to handle different endpoints for various func
 
 # Debugging: 
 The application is set to run in debug mode, facilitating easier development and troubleshooting.
+
+
+# USER TABLE SCHEMA
+
+![image](https://github.com/Nithya028/Social-media-Application-Backend/assets/127539831/017ec0b1-e68a-4720-afdd-983216c35d35)
+
+# POST TABLE SCHEMA
+
+![image](https://github.com/Nithya028/Social-media-Application-Backend/assets/127539831/3fb3494f-bfdc-4beb-a776-151b64947bef)
+
