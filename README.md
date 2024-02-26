@@ -1,5 +1,9 @@
 # Social-media-Application-Backend
 Flask Social Media Application
+# TOOLS USED:
+# Python
+# Flask  
+# Database - Sqlite
 This Flask application provides a platform for users to register, login, and interact with posts. Here's a brief overview:
 
 # User Registration and Authentication: 
@@ -13,9 +17,6 @@ Users can create, edit, and delete posts. Posts can include titles, captions, an
 
 # Search Functionality:
 Users can search for posts by username, enabling them to discover content created by other users.
-
-# Error Handling:
-The application includes error handling mechanisms to provide feedback in case of invalid actions or unauthorized access.
 
 # Session Management:
 Sessions are used to maintain user login status throughout the browsing session.
